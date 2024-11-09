@@ -195,7 +195,7 @@ Goal:
      * COnfigure log analysis tools for monitoring and regurlar security audit
      
   
-  By following this step-by-step guide, i am able to establish a ribust security posture for my linux server in a real-world environment, ensuring that it's well-protected and that security incidents can be detected and responed to promptly
+  By following this step-by-step guide, i am able to establish a robust security posture for my linux server in a real-world environment, ensuring that it's well-protected and that security incidents can be detected and responded to promptly
    
 This project is licensed under the MIT License - see the LICENSE file for details.
   
@@ -223,5 +223,4 @@ SOFTWARE.
 
 If you have any questions or feedback, please feel free to contact me:
 * Email: darrylnnon@gmail.com
-* Github: darrylnnon@github.com
-* 
+* Github: darrylnnon@github.com 
